@@ -4,7 +4,7 @@
 
 ![air blast mod render](./images/air_blast_render.png)
 
-![air blast mod picture](./images/air_blast_image.png)
+![air blast mod picture](./images/air_blast_image.HEIC)
 
 ### Bill of Materials
 Item | Link | Note
