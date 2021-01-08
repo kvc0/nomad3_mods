@@ -36,4 +36,13 @@ Run the air hose through the X axis drag chain for a neat install.  Be mindful o
 Poke a small hole in the rear right of the back panel for the hose to go through, bolt the regulator bracket to the rear right of the CNC machine, connect the hose and get your compressor out.
 
 
+## Carbide3d Threaded Bed
+
+![threaded bed model](./images/bed_model.png)
+
+This is a tool to help you prepare and line up stock when using the Carbide threaded bed for the Nomad.  It should match your hole placement faithfully; I use it for flip side milling.
+
+Pick your cad format: [bed_model.f3d](./cad/bed_model.f3d)   [bed_model.step](./cad/bed_model.step)
+
+
 
